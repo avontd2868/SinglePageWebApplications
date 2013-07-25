@@ -1,0 +1,224 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"chat",
+				"chat_retract_time"
+			],
+			[
+				"ch",
+				"chat"
+			],
+			[
+				"is",
+				"is_chat_retracted"
+			],
+			[
+				"c",
+				"chat_extend_height"
+			],
+			[
+				"j",
+				"jQueryMap"
+			],
+			[
+				"cha",
+				"chat_retract_height"
+			],
+			[
+				"ma",
+				"main_html"
+			],
+			[
+				"con",
+				"configMap"
+			],
+			[
+				"in",
+				"inside"
+			],
+			[
+				"list-s",
+				"list-style-position"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Tim/Dropbox/Sublime/SPA/layout.html",
+		"/C/Users/Tim/Dropbox/Sublime/SPA/SPA.sublime-project",
+		"/C/Users/Tim/Dropbox/SPA.sublime-project",
+		"/C/Users/Tim/Dropbox/SPA/spa.html",
+		"/C/Users/Tim/Dropbox/SPA/layout.html",
+		"/C/Users/Tim/Dropbox/SPA/spa.files.txt-3.2.1b",
+		"/C/Users/Tim/Dropbox/SPA/js/spa.shell.js",
+		"/C/Users/Tim/Dropbox/SPA/js/jq.js",
+		"/C/Users/Tim/Dropbox/Sample Projects/spwa_code/2013-01-02_spa_listings/ch03/layout.html-3.3.2",
+		"/C/Users/Tim/Dropbox/Sample Projects/spwa_code/2013-01-02_spa_listings/ch03/spa.html-3.2.2",
+		"/C/Users/Tim/Dropbox/SPA/css/spa.css",
+		"/C/Users/Tim/Dropbox/Sample Projects/spwa_code/2013-01-02_spa_listings/ch03/css/spa.css-3.2.3",
+		"/C/Users/Tim/Dropbox/Sample Projects/spwa_code/2013-01-02_spa_listings/ch03/js/spa.shell.js",
+		"/C/Users/Tim/Dropbox/SPA/css/spa.shell.css",
+		"/C/Users/Tim/Dropbox/Sample Projects/spwa_code/2013-01-02_spa_listings/ch03/css/spa.shell.css-3.5.2",
+		"/C/Users/Tim/Dropbox/SPA/js/spa.js",
+		"/C/Users/Tim/Dropbox/Sample Projects/spwa_code/2013-01-02_spa_listings/ch03/js/spa.shell.js-3.6.4",
+		"/C/Users/Tim/Dropbox/Sample Projects/spwa_code/2013-01-02_spa_listings/ch03/js/spa.js-3.4.4",
+		"/C/Users/Tim/Dropbox/Sample Projects/spwa_code/2013-01-02_spa_listings/ch03/spa.html",
+		"/C/Users/Tim/Dropbox/Sample Projects/spwa_code/2013-01-02_spa_listings/ch03/js/jq/jquery.uriAnchor-1.1.js",
+		"/C/Users/Tim/Dropbox/Sample Projects/spwa_code/2013-01-02_spa_listings/ch03/css/spa.shell.css",
+		"/C/Users/Tim/Dropbox/Sample Projects/spwa_code/2013-01-02_spa_listings/ch03/js/spa.js-3.2.4",
+		"/C/Users/Tim/Desktop/spwa_code/2013-01-02_spa_listings/ch03/css/spa.shell.css",
+		"/C/Users/Tim/Desktop/spwa_code/2013-01-02_spa_listings/ch03/js/spa.js-3.2.4",
+		"/C/Users/Tim/Desktop/spwa_code/2013-01-02_spa_listings/ch03/css/spa.css-3.2.3",
+		"/C/Users/Tim/Dropbox/layout.html",
+		"/C/Users/Tim/Dropbox/SPA/sample",
+		"/C/Users/Tim.Barber/Dropbox/SPA/sample",
+		"/C/Users/Tim.Barber/Desktop/technical-competency-master/specs/movie_locator_service_concerns.spec.js",
+		"/C/Users/Tim.Barber/Desktop/technical-competency-master/lib/MovieReviews.js",
+		"/C/Users/Tim.Barber/Desktop/technical-competency-master/specs.ps1",
+		"/C/Users/Tim.Barber/Desktop/sprint planning.txt",
+		"/C/Users/Tim.Barber/Desktop/technical-competency-master/readme.md",
+		"/C/Users/Tim.Barber/Desktop/technical-competency-master/specs/review_service_concerns.spec.js",
+		"/C/Users/Tim.Barber/Desktop/technical-competency-master/specs/creating_review_model_concerns.spec.js",
+		"/C/Users/Tim.Barber/Desktop/technical-competency-master/specs/creating_review_summary_model_concerns.spec.js",
+		"/D/Projects/Combined Portal/Branches/Dev/Solutions/SharePointApp2/AppManifest.xml",
+		"/D/Documents/Shared/SharepointRemoteDeployment.ps1",
+		"/C/Users/Tim.Barber/Desktop/SharePointProjectToTfsBuildServer.ps1",
+		"/D/Users/tim.barber/Documents/Visual Studio 2010/Projects/ListBrowser/ListBrowser/bin/Debug/SharepointRemoteDeployment.ps1",
+		"/D/Projects/Dakota/Trunk/Main/Source/Service/Lifetime.NotificationListener/bin/x64/Test/Lifetime.NotificationListener.exe.config",
+		"/D/Projects/Illinois/Trunk/Main/Lifetime.CrmBroker/BrokerConsole/ContourFieldMappings.xml"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\Tim.Barber\\Dropbox\\SPA"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"};\n",
+			"install-spsol",
+			"gac",
+			"$server",
+			"Installing"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true
+}
