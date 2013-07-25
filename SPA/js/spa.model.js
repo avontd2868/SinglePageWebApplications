@@ -1,9 +1,6 @@
 /*
- * spa.model.js
- * Model module
- *
- * Michael S. Mikowski - mike.mikowski@gmail.com
- * Copyright (c) 2011-2012 Manning Publications Co.
+ *   spa.model.js
+ *   Model module
 */
 
 /*jslint         browser : true, continue : true,
@@ -13,8 +10,6 @@
   white  : true
 */
 
-/* global $, spa */
+/*global $, spa */
 
-spa.model = (function)(){
-	return {};
-}());
+spa.model = (function (){ return {}; }());
